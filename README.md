@@ -1,4 +1,3 @@
 # git-demo
 
-just practicing git
-
+just practicing git for some time
