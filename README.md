@@ -1,2 +1,2 @@
 # git-demo
-nothing much just practicing git\
+nothing much just practicing git
